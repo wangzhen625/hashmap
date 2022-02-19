@@ -1,1 +1,1 @@
-# hashmap
+A demo of hashmap, which is implemented with a fixed-length array and [Open addressing](https://en.wikipedia.org/wiki/Open_addressing)
